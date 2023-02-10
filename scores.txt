@@ -1,2 +1,3 @@
-jeje: 49
+jeje: 64
 lucas: 0
+ia: 23
